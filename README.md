@@ -10,7 +10,7 @@ freecurrencyapi-ruby is the official Ruby Wrapper around the [freecurrencyapi](h
 
 Add this line to your application's Gemfile:
 
-    gem 'freecurrencyapi'
+    gem 'freecurrencyapi-official'
 
 And then execute:
 
@@ -18,7 +18,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install freecurrencyapi
+    $ gem install freecurrencyapi-official
 
 ## Configuration
 
